@@ -8,7 +8,7 @@ This project demonstrates a basic Student Management System using MySQL. It incl
 
 * Create relational database schema
 * Use of primary and foreign keys
-* Stored procedure for inserting students
+* Stored procedure for inserting student
 * Data insertion and querie
 * JOIN operations for fetching combined data
 
