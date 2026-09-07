@@ -18,4 +18,4 @@ Key Concepts Used
 * SQL Joins
 * Aggregation (SUM)
 * Stored Procedures
-* Foreign Key Constraints
+* Foreign Key Constraint
