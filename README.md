@@ -1,5 +1,4 @@
 # Student Management System (SQL Project)
-
  📌 Overview
 
 This project demonstrates a basic Student Management System using MySQL. It includes tables for student, subjects, and marks with relationships using foreign keys.
